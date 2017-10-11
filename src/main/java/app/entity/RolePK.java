@@ -22,7 +22,7 @@ public class RolePK implements Serializable {
    * @generated
    */
   @Column(name = "id", insertable=true, updatable=true)
-  private java.lang.String id;
+  private java.lang.String id = UUID.randomUUID().toString().toUpperCase();
   
   /**
    * @generated
