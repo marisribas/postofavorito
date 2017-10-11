@@ -91,5 +91,9 @@
   "Save": "Save",
   "invalid.cpf": "CPF invalid",
   "invalid.cnpj": "CNPJ invalid",
-  "Home.view.Department": "Department"
+  "Home.view.Department": "Department",
+  "MeusCarros": "My Cars",
+  "Carros": "Cars",
+  "Abastecimentos": "Fuelling",
+  "Postos": "Gas Stations"
 }

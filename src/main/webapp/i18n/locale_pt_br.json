@@ -91,5 +91,9 @@
   "Save": "Salvar",
   "invalid.cpf": "CPF inválido",
   "invalid.cnpj": "CNPJ inválido",
-  "Home.view.Department": "Departamento"
+  "Home.view.Department": "Departamento",
+  "MeusCarros": "Meus Carros",
+  "Carros": "Carros",
+  "Abastecimentos": "Abastecimentos",
+  "Postos": "Postos"
 }
